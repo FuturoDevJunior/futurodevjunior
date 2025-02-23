@@ -5,9 +5,9 @@
 <h1 align="center">Olá, eu sou DevFerreira 👋 / Hi, I'm DevFerreiraG 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full-Stack Sênior</strong> apaixonado por construir soluções web inovadoras e robustas. Com anos de experiência em tecnologias modernas, como JavaScript, Python, React e Node.js, eu me dedico a criar projetos que combinam funcionalidade, desempenho e design elegante.
+  <strong>Desenvolvedor Full-Stack </strong> apaixonado por construir soluções web inovadoras e robustas. Com anos de experiência em tecnologias modernas, como JavaScript, Python, React e Node.js, eu me dedico a criar projetos que combinam funcionalidade, desempenho e design elegante.
   <br><br>
-  <strong>Senior Full-Stack Developer</strong> passionate about building innovative and robust web solutions. With years of experience in modern technologies like JavaScript, Python, React, and Node.js, I’m committed to creating projects that blend functionality, performance, and elegant design.
+  <strong> Full-Stack Developer</strong> passionate about building innovative and robust web solutions. With years of experience in modern technologies like JavaScript, Python, React, and Node.js, I’m committed to creating projects that blend functionality, performance, and elegant design.
 </p>
 
 ---
