@@ -1,6 +1,6 @@
 <p align="center">
-[  <img src="https://avatars.githubusercontent.com/u/196907994?v=4" alt="Imagem de Perfil / Profile Image" width="150" height="150">
-]</p>
+  <img src="https://avatars.githubusercontent.com/u/196907994?v=4" alt="Imagem de Perfil / Profile Image" width="150" height="150">
+</p>
 
 <h1 align="center">Olá, eu sou DevFerreira 👋 / Hi, I'm DevFerreiraG 👋</h1>
 
