@@ -115,7 +115,7 @@ const gabriel = {
 
 <div align="left">
 <details>
-<summary><b>Senior Full Stack Developer | TechInnovate Solutions | 2023-Present</b></summary>
+<summary><b>Senior Full Stack Developer | UpWork | 2023-Present</b></summary>
 <br>
 • Led development of enterprise-grade web applications using React, Node.js, and AWS<br>
 • Architected microservices infrastructure resulting in 40% improved system performance<br>
@@ -124,7 +124,7 @@ const gabriel = {
 </details>
 
 <details>
-<summary><b>Web Developer | Digital Frontiers Agency | 2021-2023</b></summary>
+<summary><b>Web Developer | self employed | 2021-2023</b></summary>
 <br>
 • Developed responsive web applications for clients across e-commerce and finance sectors<br>
 • Collaborated with UX/UI designers to implement pixel-perfect interfaces<br>
@@ -319,19 +319,7 @@ VS Code                  ██████████████████�
 Mac OS                   █████████████████████   100.0%
 ```
 
----
 
-## 📚 Publications & Knowledge Sharing
-
-### Technical Articles
-- [**Building Responsive Web Applications with React**](https://medium.com/@devferreirag/building-responsive-web-applications-with-react) - *5.8K reads*
-- [**How to Optimize Database Performance in Node.js Applications**](https://medium.com/@devferreirag/how-to-optimize-database-performance) - *3.2K reads*
-- [**Best Practices for Modern Frontend Development**](https://medium.com/@devferreirag/best-practices-for-modern-frontend-development) - *4.5K reads*
-
-### Conference Talks
-- **Modern State Management in React** - ReactConf Brazil 2023
-- **Building Scalable Microservices with Node.js** - JSConf Chile 2022
-- **UI Performance Optimization Techniques** - Frontend Week São Paulo 2022
 
 ---
 
@@ -351,65 +339,7 @@ Mac OS                   ██████████████████�
 
 ---
 
-## 🔮 Professional Roadmap 2025
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Q1 2025</th>
-      <th>Q2 2025</th>
-      <th>Q3 2025</th>
-      <th>Q4 2025</th>
-    </tr>
-    <tr>
-      <td>
-        • Master AWS serverless<br>
-        • Contribute to 2 open-source projects<br>
-        • Publish 3 technical articles
-      </td>
-      <td>
-        • Complete cloud architecture certification<br>
-        • Develop AI-powered web application<br>
-        • Present at 1 tech conference
-      </td>
-      <td>
-        • Implement microservices architecture<br>
-        • Mentor 2 junior developers<br>
-        • Learn Rust programming language
-      </td>
-      <td>
-        • Launch SaaS product<br>
-        • Achieve 95% test coverage on projects<br>
-        • Master Kubernetes orchestration
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💬 Testimonials
-
-<table>
-  <tr>
-    <td width="25%">
-      <img src="https://randomuser.me/api/portraits/men/32.jpg" width="100%" style="border-radius:50%">
-      <div align="center"><b>Ricardo Almeida</b><br>CTO at TechSolutions</div>
-    </td>
-    <td width="75%">
-      <i>"Gabriel is one of the most skilled developers I've worked with. His ability to translate complex business requirements into elegant code is unmatched. A true professional who consistently delivers high-quality solutions."</i>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%">
-      <img src="https://randomuser.me/api/portraits/women/44.jpg" width="100%" style="border-radius:50%">
-      <div align="center"><b>Ana Martins</b><br>Product Manager</div>
-    </td>
-    <td width="75%">
-      <i>"Working with Gabriel was an incredible experience. His technical expertise combined with his understanding of user needs resulted in a product that exceeded our expectations. Highly recommended!"</i>
-    </td>
-  </tr>
-</table>
 
 ---
 
